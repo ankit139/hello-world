@@ -1,2 +1,2 @@
 # hello-world
-helloWorld
+This is a sample README file.
